@@ -1,0 +1,19 @@
+
+  .ex-items {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--bg-color);
+    margin: 20px;
+    padding: 30px;
+    
+    border-radius: 10px;
+    border: 1px solid yellow;
+    box-shadow: var(--box-shadow);
+  }
+
+  .bg-color{
+    background-color: rgb(40, 47, 97);
+  }
+
+  

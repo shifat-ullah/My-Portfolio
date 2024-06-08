@@ -1,0 +1,38 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "https://i.ibb.co/mc6zYrR/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "https://i.ibb.co/Qv4mB42/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "https://i.ibb.co/VD40VL0/javascript.png"
+  },
+  {
+    "title": "React JS",
+    "imageSrc": "https://i.ibb.co/HnHkXSj/react.png"
+  },
+  {
+    "title": "Node JS",
+    "imageSrc": "https://i.ibb.co/HTnnBnN/node.png"
+  },
+  {
+    "title":"Firebase",
+    "imageSrc":"https://i.ibb.co/cv3SXmJ/firebase.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "https://i.ibb.co/b69B29j/mongodb.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "https://i.ibb.co/8NGV1Cj/figma.png"
+  },
+  {
+    "title": "GitHub",
+    "imageSrc": "https://th.bing.com/th/id/OIP.NGIDdVP6vw9ue_D-mrEVFQHaHa?rs=1&pid=ImgDetMain"
+  }
+]

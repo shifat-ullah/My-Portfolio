@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "role": "Junior web developer at Bangladesh University AI club - non-paid",
+    "organisation": "Bangladesh University",
+    "startDate": "December, 2023",
+    "endDate": "March, 2024",
+    "location": "MohammadPur, Dhaka",
+    "experiences": [
+      "Worked on Educational Project",
+      "Worked with the AI sports Team"
+    ],
+    "imageSrc": "https://th.bing.com/th/id/R.24acdb339b93699726f2c700c5849bde?rik=t6Mlm4NbFnCYqA&riu=http%3a%2f%2fstudentstations.weebly.com%2fuploads%2f4%2f8%2f7%2f5%2f48755359%2f6741879.jpg%3f276&ehk=kSpKvsh%2b6Y3797viFoRKRYFJQpJd2xnsHHNHHRmd6x4%3d&risl=&pid=ImgRaw&r=0"
+  },
+  {
+    "id": 2,
+    "role": "Worked in Programming Hero Job Placement Team",
+    "organisation": "Programming-hero",
+    "startDate": "May, 2024",
+    "endDate": "Present",
+    "location": "Dhaka, Bangladesh",
+    "experiences": [
+      "Worked on Job Placement Team",
+      "Worked on e-commerce, hotel-management Project"
+    ],
+    "imageSrc": "https://asset.brandfetch.io/ideUJKXt7t/idNLZmwKQS.png"
+  }
+]
