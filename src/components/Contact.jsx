@@ -13,7 +13,7 @@ const Contact = () => {
         fontSize: '24px'
     };
     return (
-        <div className="lg:w-[900px]  mt-20 w-[400px] mx-auto ex">
+        <div className="lg:w-[900px] min-h-screen  mt-20 w-[400px] mx-auto ex">
             <h1 className=' text-3xl font-bold mb-10'>Contact Us!</h1>
 
             <div style={{ display: 'flex', gap:'30px', justifyContent: 'center', alignItems: 'center' }}>

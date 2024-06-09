@@ -4,7 +4,7 @@ import './experience.css'
 const Experience = () => {
   return (
     <>
-      <div className="lg:w-[900px]  mt-20 w-[400px] mx-auto ex" id="experience">
+      <div className="lg:w-[900px] min-h-screen  mt-20 w-[400px] mx-auto ex" id="experience">
         <h1 className=' text-3xl font-bold mb-10'>EXPERIENCE</h1>
         {experience.map((data) => {
           return (
