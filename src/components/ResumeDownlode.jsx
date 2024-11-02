@@ -1,4 +1,4 @@
-import pdf from '../../src/pdf/Resume Of Shifat Ullah-React.js[1].pdf'
+import pdf from '../../src/pdf/Resume Of Shifat-Ullah-React.js.pdf'
 import image from '../assets/shifat_ullah.jpg'
 import  './ResumeDownlode.css'
 import { useEffect, useRef } from 'react';
